@@ -1,9 +1,3 @@
-div {
-  background-color: blue;
-  text-align: right;
- }
- 
-
 <body>
   <div>
     <img src="logo.svg" alt="Deakin Logo" width="200" height="210">
@@ -29,7 +23,7 @@ p {
 }
 
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
  }
  
