@@ -1,5 +1,13 @@
 
 
+<body>
+  <div>
+    <img src="logo.svg" alt="Deakin Logo" width="200" height="210">
+  </div>
+  <h1>SIT223-SIT753 - Professional Practice in IT</h1>
+</body>
+
+
 h1 {
   font-size: 40px;
   font-family: Arial
@@ -16,4 +24,8 @@ p {
   font-family: Arial
 }
 
-
+div {
+  background-color: darkcyan;
+  text-align: right;
+ }
+ 
